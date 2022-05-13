@@ -1,0 +1,16 @@
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\bin\Debug\net5.0\PracticeFileStream.exe
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\bin\Debug\net5.0\PracticeFileStream.deps.json
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\bin\Debug\net5.0\PracticeFileStream.runtimeconfig.json
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\bin\Debug\net5.0\PracticeFileStream.runtimeconfig.dev.json
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\bin\Debug\net5.0\PracticeFileStream.dll
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\bin\Debug\net5.0\PracticeFileStream.pdb
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\PracticeFileStream.csproj.AssemblyReference.cache
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\PracticeFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\PracticeFileStream.AssemblyInfoInputs.cache
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\PracticeFileStream.AssemblyInfo.cs
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\PracticeFileStream.csproj.CoreCompileInputs.cache
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\PracticeFileStream.dll
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\refint\PracticeFileStream.dll
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\PracticeFileStream.pdb
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\PracticeFileStream.genruntimeconfig.cache
+C:\Users\Hideo Kojima\source\repos\FileStream\FileStream\obj\Debug\net5.0\ref\PracticeFileStream.dll
